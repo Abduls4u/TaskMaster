@@ -1,2 +1,2 @@
 # TaskMaster
-TaskMaster app 
+TaskMaster project
