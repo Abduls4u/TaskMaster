@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Navbar, Nav, Container, Form } from 'react-bootstrap';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
@@ -29,7 +30,7 @@ const AppNavbar = ({ priorityFilter, handleFilterChange }) => {
   return (
     <Navbar expand="lg" className="bg-warning">
       <Container fluid>
-        <Navbar.Brand >Task Manager</Navbar.Brand>
+        <Navbar.Brand >Task Master</Navbar.Brand>
         <Navbar.Toggle aria-controls="taskManager" />
         <Navbar.Collapse id="taskManager">
           <Nav className="me-auto my-2 my-lg-0" style={{ maxHeight: '100px' }}>
