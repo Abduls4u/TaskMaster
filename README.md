@@ -142,5 +142,5 @@ This project is licensed under the MIT License.
 For any questions or suggestions, please reach out at:
 - **Developer:** Abdulsalam Abdulsomad .A.
 - **Email:** [Send Email](mailto:abdulsalamabdulsomad14@gmail.com)
-- **Twitter:** [@abduls0mad](https://twitter.com/abduls0mad)
+- **X:** [@abduls0mad](https://x.com/abduls0mad)
 - **GitHub:** [abduls4u](https://github.com/abduls4u)
