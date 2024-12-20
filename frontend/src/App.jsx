@@ -11,6 +11,7 @@ const App = () => {
   const [priorityFilter, setPriorityFilter] = useState('all');
 
   // A protected route component that checks for authentication
+  // eslint-disable-next-line react/prop-types
   const ProtectedRoute = ({ children }) => {
     const isAuthenticated = localStorage.getItem('token');
     

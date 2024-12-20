@@ -31,8 +31,8 @@ const AppNavbar = ({ priorityFilter, handleFilterChange }) => {
     <Navbar expand="lg" className="bg-warning">
       <Container fluid>
         <Navbar.Brand >Task Master</Navbar.Brand>
-        <Navbar.Toggle aria-controls="taskManager" />
-        <Navbar.Collapse id="taskManager">
+        <Navbar.Toggle aria-controls="taskMaster" />
+        <Navbar.Collapse id="taskMaster">
           <Nav className="me-auto my-2 my-lg-0" style={{ maxHeight: '100px' }}>
 
             {/* Show Login/Register if user is NOT authenticated */}
